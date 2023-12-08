@@ -22,8 +22,8 @@ $ streamlit run main.py
 
 # Exploratory Data Analysis
 
-A basic Exploratory Data Alaysis (EDA) can be seen in this file: [EDA.pynb](./EDA/EDA.ipynb). 
+A basic Exploratory Data Alaysis (EDA) can be seen in this file: [Heart Disease EDA Notebook](./EDA/EDA.ipynb). <-- Check it out! 
 
 # Machine Learning: Preprocessing, Training, and Evaluating
 
-A simple round of training a Logistic Regression model can be seen in this file: [training.ipynb](./training/training.ipynb). 
+A simple round of training a Logistic Regression model can be seen in this file: [Training and Evaluation Notebook](./training/training.ipynb). <-- Check it out! 
