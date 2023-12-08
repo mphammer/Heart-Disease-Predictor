@@ -7,7 +7,7 @@ This is a Web Application where users can enter their own information and it out
 This Data was downloaded from Kaggle: 
 https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data
 
-Ideally we would have a lot more data than this in order to confidently draw conclusions. However, for this project we will pretend that there is enough.  
+Ideally I think we would want a lot more data than this in order to confidently draw conclusions about a person's health. However, for this project we will pretend that there is enough.  
 
 # The Website
 
